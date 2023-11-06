@@ -1,4 +1,5 @@
-
+<img src="https://holopin.me/om2309"> <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 # 💫 About Me:
 🚀 Frontend Developer<br>😎 Always ready for collaboration<br>🛸 Constantly learning and exploring new technologies<br>✴️ Let's code and build amazing things together! <br>
 
@@ -21,7 +22,6 @@
 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=OM2309&icon=2&color=1)](https://visitcount.itsvg.in)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
