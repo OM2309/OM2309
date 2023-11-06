@@ -1,5 +1,14 @@
-<img src="https://holopin.me/om2309"> <br>
+<img src="https://holopin.me/om2309"><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=FFFFFFDF&center=true&vCenter=true&random=false&width=900&lines=🚀 Frontend Developer;🎨 Create a Better User Interfaces;✨ Web Enthusiast;🌐 Code Wizard" alt="Text Profile"/>
+</p>
+
+
+
+
+
+
 # 💫 About Me:
 🚀 Frontend Developer<br>😎 Always ready for collaboration<br>🛸 Constantly learning and exploring new technologies<br>✴️ Let's code and build amazing things together! <br>
 
