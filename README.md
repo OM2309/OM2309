@@ -27,7 +27,11 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=OM2309&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+| ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OM2309&theme=flat&no-frame=false&no-bg=false&margin-w=4) |
+|:--:|
+| Showcase of my GitHub Trophies, achievements, and contributions. These trophies represent my journey and accomplishments in the open-source community. |
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
