@@ -69,8 +69,6 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-
-
 # 📊 GitHub Stats:
 <p align="center">
  
@@ -89,9 +87,6 @@
  
 </p>
 
-
-
-
 ## 🏆 GitHub Trophies
 | ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OM2309&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4) |
 |:--:|
@@ -101,8 +96,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
