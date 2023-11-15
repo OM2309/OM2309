@@ -6,8 +6,6 @@
 </p>
 # 💫 About Me:
 🚀 Frontend Developer<br>😎 Always ready for collaboration<br>🛸 Constantly learning and exploring new technologies<br>✴️ Let's code and build amazing things together! <br>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_whyom/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anurag-sharma-0aa775270) 
 
