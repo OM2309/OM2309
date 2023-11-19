@@ -86,8 +86,7 @@
       </td>
     </tr>
   </table>
- 
-</p>
+ </p>
 
 ## 🏆 GitHub Trophies
 | ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OM2309&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4) |
