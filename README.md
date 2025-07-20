@@ -2,11 +2,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=om2309&label=Profile%20views&color=0e75b6&style=flat" alt="om2309" /> </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=FFFFFFDF&center=true&vCenter=true&random=false&width=900&lines=🚀 Frontend Developer;🎨 Create a Better User Interfaces;✨ Web Enthusiast;🌐 Code Wizard" alt="Text Profile"/>
+<!--   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=FFFFFFDF&center=true&vCenter=true&random=false&width=900&lines=🚀 Frontend Developer;🎨 Create a Better User Interfaces;✨ Web Enthusiast;🌐 Code Wizard" alt="Text Profile"/> -->
 </p>
 # 💫 About Me:
 
-🚀 Frontend Developer<br>😎 Always ready for collaboration<br>🛸 Constantly learning and exploring new technologies<br>✴️ Let's code and build amazing things together! <br>
+🚀 Developer<br>😎 Always ready for collaboration<br>🛸 Constantly learning and exploring new technologies<br>✴️ Let's code and build amazing things together! <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_whyom/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anurag-sharma-0aa775270) 
