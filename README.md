@@ -53,12 +53,6 @@
 ### 📊 GitHub Stats (Blue Theme)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=om2309&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=om2309&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=om2309&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
-</p>
 
 ---
 
