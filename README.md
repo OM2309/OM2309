@@ -48,13 +48,6 @@
 | **DevOps & Tools**| Docker · CI/CD · AWS · Git · GitLab · GitHub · REST API · GraphQL API · JWT Authentication & Authorization · Postman |
 | **Languages (Spoken)** | Fluent in English · Conversational Hindi                                |
 
----
-
-### 📊 GitHub Stats (Blue Theme)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=om2309&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Stats" width="48%" />
-
----
 
 ### 💼 Work Experience
 
