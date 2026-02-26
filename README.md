@@ -3,10 +3,6 @@
   <img src="https://holopin.me/om2309" alt="Holopin Badges" />
 </p>
 
-<!-- Hero Banner - subtle blue wave for aesthetic minimalism -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d47a1&height=180&section=header&text=Anurag%20Sharma&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Header" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Anurag Sharma</h1>
 <h3 align="center">🚀 Full-Stack Developer | MERN | Next.js | GenAI Enthusiast</h3>
