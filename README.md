@@ -1,17 +1,16 @@
-<!-- Banner -->
 <p align="center">
   <img src="https://holopin.me/om2309" alt="Holopin Badges" />
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Anurag Sharma</h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN | Next.js | GenAI Enthusiast</h3>
+<h1 align="center">I'm Anurag Sharma</h1>
+<h3 align="center">22 , Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=om2309&label=Profile%20views&color=0d47a1&style=flat-square" alt="Profile views" />
 </p>
 
----
+
 
 ### 🧑‍💻 About Me
 - 🔭 Currently building **AI-powered applications** at Octal IT Solution
