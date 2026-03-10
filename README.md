@@ -65,16 +65,6 @@
 - **Developer Portfolio (anurag-uat.vercel.app)**  
   Modern portfolio using Next.js with Server Actions. Integrated Better Auth/Supabase, Drizzle ORM for type-safe DB. Focused on clean architecture, server-driven fetching, reusable components.
 
----
-
-### 🎓 Education
-
-| Institution & Degree                  | Duration     | Achievements |
-|---------------------------------------|--------------|--------------|
-| **Bachelor of Computer Science**<br>Prestige Institute of Management and Research | 2021 – 2024 | SGPA: 8.6 / 10 |
-| **Higher Secondary Education (Class XII)**<br>Keshat Education Academy, Porsa (Morena), MP | 2020 – 2021 | Percentage: 84% |
-
----
 
 ### 💡 Quote I Live By
 
