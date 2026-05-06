@@ -25,7 +25,7 @@
 
 ## 🤝 Let's Connect
 
-<div align="center">
+<div align="left">
 
 Building something cool or just wanna talk tech — DMs are always open.
 
@@ -36,7 +36,7 @@ Building something cool or just wanna talk tech — DMs are always open.
 
 ---
 
-<div align="center">
+<div align="left">
 
 ```
 Keep shipping. Keep learning. ⚡
