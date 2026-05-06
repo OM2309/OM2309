@@ -1,8 +1,4 @@
----
 
-## 🏅 Badges
-
-<div align="center">
 
 [![@om2309's Holopin board](https://holopin.me/om2309)](https://holopin.io/@om2309)
 
