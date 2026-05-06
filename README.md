@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
- █████╗ ███╗   ██╗██╗   ██╗██████╗  █████╗  ██████╗
-██╔══██╗████╗  ██║██║   ██║██╔══██╗██╔══██╗██╔════╝
-███████║██╔██╗ ██║██║   ██║██████╔╝███████║██║  ███╗
-██╔══██║██║╚██╗██║██║   ██║██╔══██╗██╔══██║██║   ██║
-██║  ██║██║ ╚████║╚██████╔╝██║  ██║██║  ██║╚██████╔╝
-╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝
+ ██████╗ ███╗   ███╗
+██╔═══██╗████╗ ████║
+██║   ██║██╔████╔██║
+██║   ██║██║╚██╔╝██║
+╚██████╔╝██║ ╚═╝ ██║
+ ╚═════╝ ╚═╝     ╚═╝
 ```
 
 ### Full Stack Developer · Web3 Builder · Open Source Enthusiast
@@ -19,75 +19,37 @@
 
 ---
 
+## 🏅 Badges
+
+<div align="center">
+
+[![@om2309's Holopin board](https://holopin.me/om2309)](https://holopin.io/@om2309)
+
+</div>
+
+---
+
 ## `whoami`
 
 ```ts
-const anurag = {
+const om = {
   role        : "Full Stack Developer",
   location    : "Jaipur, India 🇮🇳",
-  stack       : ["MERN", "Next.js", "TypeScript", "React Native"],
+  languages   : "Whatever the problem needs 🤷‍♂️",
   exploring   : ["Solana", "Rust", "Anchor", "Generative AI"],
-  currentFocus: "Building production-grade apps & diving deep into Web3",
+  currentFocus: "Building production-grade apps & going deep on Web3",
   openTo      : "Collaborations, freelance & full-time opportunities",
 };
 ```
 
 ---
 
-## ⚡ Tech Stack
+## 🔨 Currently Building
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Frontend**
-```
-React          ████████████  
-Next.js        ████████████  
-TypeScript     ██████████░░  
-Tailwind CSS   ████████████  
-React Native   █████████░░░  
-```
-
-</td>
-<td valign="top" width="33%">
-
-**Backend**
-```
-Node.js        ████████████  
-Express.js     ████████████  
-REST APIs      ████████████  
-MongoDB        ██████████░░  
-PostgreSQL     ████████░░░░  
-```
-
-</td>
-<td valign="top" width="33%">
-
-**Web3 & Tools**
-```
-Solana         ███████░░░░░  
-Rust           ██████░░░░░░  
-Anchor         █████░░░░░░░  
-Docker         ███████░░░░░  
-Git / CI-CD    ████████████  
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## 🔨 What I'm Building
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🧠 **DocFlow** | Full-stack documentation platform with JWT auth, full-text search & version snapshots | Go · Next.js · PostgreSQL |
-| 💳 **OfferCard** | Generate shareable job offer announcement cards with beautiful templates | Next.js · html2canvas |
-| 🔵 **SolCircle** | Solana-based mobile payment app with secure key storage | React Native · Solana · Expo |
-| 📬 **ProspectMail** | Bulk job outreach tool with dynamic template variables | Next.js · React Hook Form · Zod |
-| 🤖 **MockMate** | AI interview coach with voice input, resume parsing & Gemini feedback | Next.js · Gemini API |
+- 🔵 Deep diving into **Solana** — accounts, PDAs, validator economics
+- 🤖 Integrating **AI** into full-stack products
+- 📐 Leveling up on **System Design & DSA**
+- 🚀 Shipping real-world apps at **Memorres Digital**
 
 ---
 
@@ -108,30 +70,11 @@ Git / CI-CD    ████████████
 
 ---
 
-## 🏅 Badges
-
-<div align="center">
-
-[![@om2309's Holopin board](https://holopin.me/om2309)](https://holopin.io/@om2309)
-
-</div>
-
----
-
-## 📡 Currently
-
-- 🔭 Working on **production MERN apps** at Memorres Digital
-- 🌱 Deep diving into **Solana architecture** — PDAs, accounts, validator economics
-- 💡 Exploring **AI integration** in full-stack products
-- 📐 Strengthening **DSA** — Arrays, Strings, System Design
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
 
-If you're building something interesting or just want to talk tech — my DMs are always open.
+Building something cool or just wanna talk tech — DMs are always open.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuragxcodes/)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/om2309)
