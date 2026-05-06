@@ -10,18 +10,6 @@
 
 ---
 
-
-<div align="center">
-
-```
- ██████╗ ███╗   ███╗
-██╔═══██╗████╗ ████║
-██║   ██║██╔████╔██║
-██║   ██║██║╚██╔╝██║
-╚██████╔╝██║ ╚═╝ ██║
- ╚═════╝ ╚═╝     ╚═╝
-```
-
 ### Full Stack Developer · Web3 Builder · Open Source Enthusiast
 
 [![Profile Views](https://komarev.com/ghpvc/?username=om2309&label=Profile%20Views&color=0d47a1&style=flat-square)](https://github.com/om2309)
@@ -30,31 +18,6 @@
 
 </div>
 
-
-
-## `whoami`
-
-```ts
-const om = {
-  role        : "Full Stack Developer",
-  location    : "Jaipur, India 🇮🇳",
-  languages   : "Whatever the problem needs 🤷‍♂️",
-  exploring   : ["Solana", "Rust", "Anchor", "Generative AI"],
-  currentFocus: "Building production-grade apps & going deep on Web3",
-  openTo      : "Collaborations, freelance & full-time opportunities",
-};
-```
-
----
-
-## 🔨 Currently Building
-
-- 🔵 Deep diving into **Solana** — accounts, PDAs, validator economics
-- 🤖 Integrating **AI** into full-stack products
-- 📐 Leveling up on **System Design & DSA**
-- 🚀 Shipping real-world apps at **Memorres Digital**
-
----
 
 <div align="center">
 
