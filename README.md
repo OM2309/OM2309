@@ -15,7 +15,7 @@
 </div>
 
 
-<div align="center">
+<div align="left">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=om2309&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
