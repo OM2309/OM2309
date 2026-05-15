@@ -1,7 +1,11 @@
-<h1 align="center">Anurag Sharma</h1>
+<h1 align="center">OM</h1>
 
 <p align="center">
-  Full Stack Developer · React Native Developer · Building things one bug at a time
+  Full Stack Developer · React Native Developer
+</p>
+
+<p align="center">
+  Building modern applications with clean interfaces, scalable systems, and meaningful user experiences.
 </p>
 
 <p align="center">
@@ -11,51 +15,21 @@
 
 ---
 
-### About Me
+<img align="right" alt="coding" width="260" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-I enjoy building modern web and mobile applications with a strong focus on clean UI, smooth user experience, and scalable architecture.
+### About
 
-Most of my time goes into JavaScript, TypeScript, React, Next.js, React Native, and backend systems using Node.js.
+I enjoy creating web and mobile applications that feel smooth, responsive, and thoughtfully designed. Most of my work revolves around frontend experiences, backend systems, and building products that are simple, fast, and user-focused.
 
-Currently exploring:
-- System Design
-- AI-powered applications
-- Scalable backend architecture
-- Performance optimization
-- Web3 ecosystem
+Lately, I’ve been spending more time understanding scalable architectures, performance optimization, AI-powered applications, and modern development workflows. I like learning through building, experimenting with ideas, and improving things step by step.
 
-I like learning by building real things, breaking stuff, fixing them again, and repeating the process.
+Rather than rushing projects publicly, I prefer taking my time, understanding the fundamentals deeply, and building at my own pace.
 
 ---
 
-### Tech Stack
+### Current Focus
 
-#### Frontend
-`React` `Next.js` `React Native` `TypeScript` `Tailwind CSS`
-
-#### Backend
-`Node.js` `Express.js` `MongoDB` `PostgreSQL` `Firebase`
-
-#### Tools & Other
-`Git` `Docker` `Linux` `REST APIs` `WebSockets`
-
----
-
-### Current Status
-
-```txt
-Learning deeply.
-Building silently.
-Improving consistently.
-```
-
----
-
-### GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=om2309&theme=tokyonight&hide_border=true" />
-</p>
+Currently focused on improving problem-solving skills, exploring better system design practices, and building applications with cleaner architecture and smoother user experience.
 
 ---
 
@@ -70,13 +44,3 @@ Improving consistently.
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
----
-
-```js
-while (!success) {
-  learn();
-  build();
-  improve();
-}
-```
