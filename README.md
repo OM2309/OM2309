@@ -1,45 +1,75 @@
+# Hey, I'm Anurag 👋
 
+Full Stack Developer passionate about building modern web and mobile applications with clean UI, scalable architecture, and smooth user experiences.
 
-[![@om2309's Holopin board](https://holopin.me/om2309)](https://holopin.io/@om2309)
+I mainly work with JavaScript, TypeScript, React, Next.js, React Native, and Node.js.  
+Currently exploring System Design, AI-powered applications, Web3, and performance-focused development.
 
-</div>
-
----
-
-### Full Stack Developer · Web3 Builder · Open Source Enthusiast
-
-[![Profile Views](https://komarev.com/ghpvc/?username=om2309&label=Profile%20Views&color=0d47a1&style=flat-square)](https://github.com/om2309)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anuragxcodes-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuragxcodes/)
-[![GitHub](https://img.shields.io/badge/GitHub-om2309-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/om2309)
-
-</div>
-
-
-<div align="left">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=om2309&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+I enjoy turning ideas into real products, learning new technologies, and continuously improving as a developer.
 
 ---
 
-## 🤝 Let's Connect
+## ⚡ Tech Stack
 
-<div align="left">
+### Frontend
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs)
+![React Native](https://img.shields.io/badge/React_Native-111827?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwindcss)
 
-Building something cool or just wanna talk tech — DMs are always open.
+### Backend & Database
+![Node JS](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql)
+![Firebase](https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase)
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuragxcodes/)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/om2309)
-
-</div>
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
+![WebSockets](https://img.shields.io/badge/WebSockets-111827?style=for-the-badge&logo=socketdotio)
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux)
 
 ---
 
-<div align="left">
+## 📈 GitHub Stats
 
-```
-Keep shipping. Keep learning. ⚡
-```
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=om2309&theme=tokyonight&hide_border=true" />
+</p>
 
-</div>
+---
+
+## 🌱 Currently Learning
+
+- Advanced System Design
+- Scalable Backend Architectures
+- AI & RAG Applications
+- Performance Optimization
+- Advanced DSA Patterns
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/om2309">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/anuragxcodes">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+```js
+const anurag = {
+  code: ["JavaScript", "TypeScript"],
+  technologies: ["React", "Next.js", "React Native", "Node.js"],
+  currentFocus: "Building scalable and meaningful products",
+  mindset: "Keep learning. Keep building."
+};
