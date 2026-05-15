@@ -1,21 +1,21 @@
 <h1 align="center">OM</h1>
 
-<p align="center">
-  Full Stack Developer · React Native Developer
+<p align="left">
+  Developer 
 </p>
 
-<p align="center">
+<p align="left">
   Building modern applications with clean interfaces, scalable systems, and meaningful user experiences.
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=om2309&label=Profile%20Views&color=111111&style=flat" />
   <img src="https://img.shields.io/github/followers/om2309?style=flat&color=111111" />
 </p>
 
 ---
 
-<img align="right" alt="coding" width="260" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+
 
 ### About
 
