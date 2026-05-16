@@ -16,7 +16,6 @@
 ---
 
 
-
 ### About
 
 I enjoy creating web and mobile applications that feel smooth, responsive, and thoughtfully designed. Most of my work revolves around frontend experiences, backend systems, and building products that are simple, fast, and user-focused.
