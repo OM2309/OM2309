@@ -24,16 +24,4 @@ Lately, I’ve been spending more time understanding scalable architectures, per
 
 Rather than rushing projects publicly, I prefer taking my time, understanding the fundamentals deeply, and building at my own pace.
 
----
 
-### Connect
-
-<p align="left">
-  <a href="https://github.com/om2309">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://linkedin.com/in/anuragxcodes">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
