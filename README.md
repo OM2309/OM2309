@@ -26,12 +26,6 @@ Rather than rushing projects publicly, I prefer taking my time, understanding th
 
 ---
 
-### Current Focus
-
-Currently focused on improving problem-solving skills, exploring better system design practices, and building applications with cleaner architecture and smoother user experience.
-
----
-
 ### Connect
 
 <p align="left">
