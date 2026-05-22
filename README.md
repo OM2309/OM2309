@@ -10,7 +10,6 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=om2309&label=Profile%20Views&color=111111&style=flat" />
-  <img src="https://img.shields.io/github/followers/om2309?style=flat&color=111111" />
 </p>
 
 ---
