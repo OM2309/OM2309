@@ -1,10 +1,6 @@
 <h1 align="center">OM</h1>
 
 <p align="left">
-  Developer 
-</p>
-
-<p align="left">
   Building modern applications with clean interfaces, scalable systems, and meaningful user experiences.
 </p>
 
